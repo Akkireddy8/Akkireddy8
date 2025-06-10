@@ -1,4 +1,4 @@
-### Hi, I'm Akshitha Katyaini Reddy 👋
+### Hi, I'm Akshitha Reddy
 
 I'm a graduate in Applied Computer Science and a passionate Software Engineer dedicated to building impactful and user-focused solutions. I enjoy working across the tech stack, from scalable web and mobile applications to innovative data analytics and AI-powered projects.
 
